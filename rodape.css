@@ -1,0 +1,11 @@
+.rodape{
+    background-color: var(--cor-navbar);
+    padding: 3em;
+    text-align: center;
+}
+
+.rodape__texto{
+    color: var(--cor-primaria);
+    font-family: var(--fonte-menu);
+    font-size: 17px;
+}
